@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="restext2">
+        <item>"Chosen Essay Title"</item>
+        <item>"Observation of the Title"</item>
+        <item>"Chosen AOKs and WOKs"</item>
+        <item>"Chosen Thesis"</item>
+        <item>"Completed Introduction"</item>
+        <item>"Claim N1 for AOK N1"</item>
+        <item>"RLS/Example for Claim N1"</item>
+        <item>"Counter Claim N1 for AOK N1"</item>
+        <item>"RLS/Example for Counter Claim N1"</item>
+        <item>"Claim N2 for AOK N2"</item>
+        <item>"RLS/Example for Claim N2"</item>
+        <item>"Counter Claim N2 for AOK N2"</item>
+        <item>"RLS/Example for Counter Claim N2"</item>
+        <item>"Word Count"</item>
+        <item>"Conclusion"</item>
+        <item>"Works Cited"</item>
+
+    </array>
+
+</resources>

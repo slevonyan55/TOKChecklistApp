@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="restext">
+        <item>"Title Page"</item>
+        <item>"Real Life Situation"</item>
+        <item>"Transition from the RLS to the Knowledge Question"</item>
+        <item>"Knowledge Question"</item>
+        <item>"AOKs and WOKs"</item>
+        <item>"Claim N1 for AOK N1"</item>
+        <item>"Example for Claim N1"</item>
+        <item>"Counter Claim N1 for AOK N1"</item>
+        <item>"Example for Counter Claim N1"</item>
+        <item>"Claim N2 for AOK N2"</item>
+        <item>"Example for Claim N2"</item>
+        <item>"Counter Claim N2 for AOK N2"</item>
+        <item>"Example for Counter Claim N1"</item>
+        <item>"Conclusion"</item>
+        <item>"Link back to the initial RLS"</item>
+        <item>"Link to a new RLS"</item>
+    </array>
+
+</resources>
